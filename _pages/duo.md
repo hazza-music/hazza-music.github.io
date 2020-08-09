@@ -14,9 +14,15 @@ During the Covid-19 lockdown restrictions we have used the time to record some t
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/786962416&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/harriet-drury-1" title="Hazza" target="_blank" style="color: #cccccc; text-decoration: none;">Hazza</a> · <a href="https://soundcloud.com/harriet-drury-1/say-a-little-prayer-feat-eleisha-milverton" title="Say a Little Prayer - Feat. Eleisha Milverton (Quarantunes #1)" target="_blank" style="color: #cccccc; text-decoration: none;">Say a Little Prayer - Feat. Eleisha Milverton (Quarantunes #1)</a></div>
 
+
 Live Recording:
 ======
 
 This is taken from December 2019:
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/729639745&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/harriet-drury-1" title="Hazza" target="_blank" style="color: #cccccc; text-decoration: none;">Hazza</a> · <a href="https://soundcloud.com/harriet-drury-1/no-room-for-doubt" title="No Room For Doubt(Live) - Feat. Eleisha Milverton" target="_blank" style="color: #cccccc; text-decoration: none;">No Room For Doubt(Live) - Feat. Eleisha Milverton</a></div>
 
+
+Hire Us!
+======
+
+For bookings and availability please contact Harriet Drury via email: harriet.drury(at)students.plymouth.ac.uk
