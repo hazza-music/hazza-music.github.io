@@ -37,31 +37,23 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Communication
+  * Responding to Gig requests
+  * Organising meetings between myself and other creators/ designers
+  * 2 day maximum wait times on responses
+* Organisation
+  * Booking Gigs and taking payment
+  * Creating Scenes and Foley in appropriate time frames
+  * Writing Essays and Assignments in good time to allow for editing and changes.
+* Planning
+  * Creating Demos for customers to streamline work
+  * Setting deadlines and planning how to complete them
+  * The ability to choose work that is of relevance to my expertise
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
