@@ -20,7 +20,7 @@ Work experience
   * Duties included: Designing each scene's audio while mixing the relevant dialogue in. I also created the show's jingles and theme song.
   * Supervisor: Lee Whittock & Todd Anthill (University of Plymouth)
   
- * Song Writer 2020- 2021: Freelance
+* Song Writer 2020- 2021: Freelance
   * Plymouth
   * Duties included:  Creating music to fit the briefs provided by the customer. The main body of work over this time is pieces for Plymouth College of Art and Design Students. My soundcloud has some of the work from this where I still held rights to distribute.
   * Supervisor: Lee Whittock (University of Plymouth)
@@ -30,7 +30,7 @@ Work experience
   * Duties included: Learning a 90 minute set list on the guitar with backing vocals and redesigning modern tracks to the jazz genre. I am also the point of contact for gig bookings and payments.
   * Supervisor: N/A
   
- * 2020-2021 (Expected): Lead guitar, Backing Vocals and Point of contact for Jazz Duo
+* 2020-2021 (Expected): Lead guitar, Backing Vocals and Point of contact for Jazz Duo
   * Plymouth
   * Duties included: Learning a 90 minute set list on the guitar with backing vocals. I am also the point of contact for gig bookings and payments. This duo is with Eleisha Milverton, a stunning female vocalist.
   * Supervisor: N/A
