@@ -8,6 +8,10 @@ I am lead guitarist and backing vocalist alongside the amazing Eleisha Milverton
 
 ![Image](https://github.com/hazza-music/hazza-music.github.io/blob/master/images/duoimage.jpg)
 
+<p align="center">
+  <img src="https://github.com/hazza-music/hazza-music.github.io/blob/master/images/duoimage.jpg" width="350" title="hover text">
+  <img src="https://github.com/hazza-music/hazza-music.github.io/blob/master/images/duoimage.jpg" width="350" alt="accessibility text">
+</p>
 
 Quarantunes
 ======
