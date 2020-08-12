@@ -7,7 +7,7 @@ author_profile: true
 I am lead guitarist and backing vocalist alongside the amazing Eleisha Milverton. We play gigs around Plymouth for bars and restaurants. Our setlist is flexible however we pride ourselves on using our small size of band to really emphasise the set.
 
 <p align="center">
-  <img src="https://liveplymouthac-my.sharepoint.com/:i:/g/personal/harriet_drury_students_plymouth_ac_uk/EaiGG2gu75tHj1M-amVdyKABtszb2lsoAq3IfURQR3AcVg?e=4feAcL/duoimage.jpg" width="350" title="Duo Photo">
+  <img src="https://github.com/hazza-music/hazza-music.github.io/blob/master/images/duoimage.jpg" width="350" title="Duo Photo">
 </p>
 
 Quarantunes
