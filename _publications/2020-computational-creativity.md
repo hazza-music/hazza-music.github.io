@@ -1,7 +1,7 @@
 ---
 title: "Computational Composition and Artificial Intelligence in Music"
 collection: publications
-permalink: /publication/2020-computational-creativity
+permalink: /publications/2020-computational-creativity
 excerpt: 'Computational Composition and Artificial Intelligence in Music'
 date: 2020-7-5
 venue: 'University of Plymouth'
