@@ -6,7 +6,7 @@ excerpt: 'Computational Composition and Artificial Intelligence in Music'
 date: 2020-7-5
 venue: 'University of Plymouth'
 paperurl: 'http://hazza-music.github.io/files/computational_creativity.pdf'
-citation: 'Drury, H. (2020). &quot;Computational Composition and Artificial Intelligence in Music.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Drury, H. (2020). &quot;Computational Composition and Artificial Intelligence in Music.&quot; <i>University of Plymouth</i>. 1(1).'
 ---
 Computational Composition and Artificial Intelligence in Music
 
