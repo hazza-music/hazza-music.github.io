@@ -57,3 +57,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+## Misc Jobs
+* Bar Staff - Eryl Hall, St. Asaph. Working during peak seasons (Summer, Christmas, Easter) (2019 - Present)
+* Student Ambassador - Music Department at the University of Plymouth. I run Q&As for the course, give guided tours and also provide live music as part of subject specific talks (2019 - present)
+* Temporary Admin Team - Gwyrch Medical Centre, during the height COVID-19, I was a temporary employee to help with the reception, providing administrative support. (March 2020 - June 2020)
+* Waitress - Whistlestop Cafe, Rhuddlan. Working mostly weekends and days off from college. (2017-2019)
+* Data Entry Clerk - Rhuddlan Surgery, Rhuddlan. (2013-2015)
+  
